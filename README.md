@@ -33,6 +33,10 @@ The application can be used in various real-world scenarios such as messaging sy
 
 In conclusion, this project successfully demonstrates the implementation of a multithreaded chat application using Java. It highlights key programming concepts such as threading, synchronization, and network communication, making it a valuable learning experience for understanding distributed systems and real-time applications.
 
+#OUTPUT
+
+<img width="1584" height="1059" alt="Image" src="https://github.com/user-attachments/assets/3795dbfa-d2bc-4762-9c6f-2dd5d59b5d3e" />
+
 
 
 
